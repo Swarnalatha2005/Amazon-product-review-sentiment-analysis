@@ -1,4 +1,4 @@
-# Amazon-product-review-sentiment-analysis
+# Amazon Product Review Sentiment Analysis
 
 ## 📌 Project Overview
 A machine learning project that classifies Amazon product reviews into
